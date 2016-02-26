@@ -1,0 +1,15 @@
+Django==1.9.2
+django-appconf==1.0.1
+django-model-utils==2.4
+django-users2==0.1.16
+django-webpack-loader==0.2.4
+docopt==0.6.2
+Jinja2==2.8
+MarkupSafe==0.23
+optional-django==0.3.0
+pipreqs==0.4.2
+react==2.0.2
+requests==2.9.1
+six==1.10.0
+wheel==0.26.0
+yarg==0.1.9
